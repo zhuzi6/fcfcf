@@ -6,7 +6,7 @@
 
 #### 后端 | [前端](https://github.com/zayabighead/office-user-auto-create/tree/client)
 
-## 🚚 部署
+## 🚚 部
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zayabighead/office-user-auto-create)
 
